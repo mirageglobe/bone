@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+args	reference/boneref.php	/^		$args = array($/;"	v
+bignum	reference/boneref.php	/^	$bignum = 999999999;$/;"	v
+bones_ahoy	reference/boneref.php	/^function bones_ahoy() {$/;"	f
+bones_excerpt_more	reference/boneref.php	/^function bones_excerpt_more($more) {$/;"	f
+bones_filter_ptags_on_images	reference/boneref.php	/^function bones_filter_ptags_on_images($content){$/;"	f
+bones_footer_links	reference/boneref.php	/^function bones_footer_links() {$/;"	f
+bones_footer_links_fallback	reference/boneref.php	/^function bones_footer_links_fallback() {$/;"	f
+bones_gallery_style	reference/boneref.php	/^function bones_gallery_style($css) {$/;"	f
+bones_get_the_author_posts_link	reference/boneref.php	/^function bones_get_the_author_posts_link() {$/;"	f
+bones_head_cleanup	reference/boneref.php	/^function bones_head_cleanup() {$/;"	f
+bones_main_nav	reference/boneref.php	/^function bones_main_nav() {$/;"	f
+bones_main_nav_fallback	reference/boneref.php	/^function bones_main_nav_fallback() {$/;"	f
+bones_page_navi	reference/boneref.php	/^function bones_page_navi() {$/;"	f
+bones_related_posts	reference/boneref.php	/^function bones_related_posts() {$/;"	f
+bones_remove_recent_comments_style	reference/boneref.php	/^function bones_remove_recent_comments_style() {$/;"	f
+bones_remove_wp_ver_css_js	reference/boneref.php	/^function bones_remove_wp_ver_css_js( $src ) {$/;"	f
+bones_remove_wp_widget_recent_comments_style	reference/boneref.php	/^function bones_remove_wp_widget_recent_comments_style() {$/;"	f
+bones_rss_version	reference/boneref.php	/^function bones_rss_version() { return ''; }$/;"	f
+bones_scripts_and_styles	reference/boneref.php	/^function bones_scripts_and_styles() {$/;"	f
+bones_theme_support	reference/boneref.php	/^function bones_theme_support() {$/;"	f
+choices	src/functions.php	/^        $choices = $setting->manager->get_control( $setting->id )->choices;$/;"	v
+content_width	src/functions.php	/^  $content_width = 950;$/;"	v
+input	src/functions.php	/^        $input = sanitize_key($input);$/;"	v
+link	reference/boneref.php	/^	$link = sprintf($/;"	v
+menubarpill	src/menuboxside.php	/^  $menubarpill = str_replace("<ul class='children'>", '<ul class="nav nav-pills nav-stacked">', $menubarpill);$/;"	v
+menubarpill	src/menuboxside.php	/^  $menubarpill = str_replace('<ul>', '<ul class="nav nav-pills nav-stacked">', $menubarpill);$/;"	v
+menubarpill	src/menuboxside.php	/^  $menubarpill = str_replace('><a href', '><a href', $menubarpill);$/;"	v
+menubarpill	src/menuboxside.php	/^  $menubarpill = wp_nav_menu(array($/;"	v
+menubarpill	src/menuboxtop.php	/^  $menubarpill = str_replace("<ul class='children'>", '<ul class="dropdown-menu">', $menubarpill);$/;"	v
+menubarpill	src/menuboxtop.php	/^  $menubarpill = str_replace('<ul>', '<ul class="nav navbar-nav navbar-right">', $menubarpill);$/;"	v
+menubarpill	src/menuboxtop.php	/^  $menubarpill = wp_nav_menu(array($/;"	v
+of	reference/boneref.php	/^		'container_class' => 'footer-links clearfix',   \/\/ class of container (should you choose to use it)$/;"	c
+of	reference/boneref.php	/^		'container_class' => 'menu clearfix',           \/\/ class of container (should you choose to use it)$/;"	c
+register_styles	src/functions.php	/^function register_styles() {$/;"	f
+related_posts	reference/boneref.php	/^		$related_posts = get_posts( $args );$/;"	v
+src	reference/boneref.php	/^		$src = remove_query_arg( 'ver', $src );$/;"	v
+tags	reference/boneref.php	/^	$tags = wp_get_post_tags( $post->ID );$/;"	v
+theme_slug_widgets_init	src/functions.php	/^function theme_slug_widgets_init() {$/;"	f
+woocommerce_support	src/functions.php	/^function woocommerce_support() {$/;"	f
+zen_recent_posts	src/menuboxbottom.php	/^<?php $zen_recent_posts = wp_get_archives( array( 'type' => 'postbypost', 'before' => ' ', 'after' => ' &middot;', 'limit' => '', 'echo' => 0, 'format' => 'custom' ) ); ?>$/;"	v
+zenify_customize_register	src/functions.php	/^function zenify_customize_register($wp_customize) {$/;"	f
+zenifywp_add_editor_styles	src/functions.php	/^function zenifywp_add_editor_styles() {$/;"	f
+zenifywp_sanitize_radio	src/functions.php	/^    function zenifywp_sanitize_radio( $input, $setting ){$/;"	f
+zenifywp_theme_setup	src/functions.php	/^function zenifywp_theme_setup() {$/;"	f

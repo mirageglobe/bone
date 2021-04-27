@@ -4,6 +4,7 @@
 *.zip
 reference/
 *.swp
+.tags
 
 # oses
 
